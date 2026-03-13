@@ -1,0 +1,101 @@
+image,caption
+1.jpg,A photo of a eskimo dog .
+1.jpg,A picture showing a eskimo dog .
+1.jpg,A close view of a eskimo dog in the scene .
+1.jpg,An image featuring a eskimo dog .
+1.jpg,A eskimo dog appears in this photo .
+2.jpg,A photo of a menu .
+2.jpg,A picture showing a menu .
+2.jpg,A close view of a menu in the scene .
+2.jpg,An image featuring a menu .
+2.jpg,A menu appears in this photo .
+3.jpg,A photo of a modem .
+3.jpg,A picture showing a modem .
+3.jpg,A close view of a modem in the scene .
+3.jpg,An image featuring a modem .
+3.jpg,A modem appears in this photo .
+4.jpg,A photo of a shovel .
+4.jpg,A picture showing a shovel .
+4.jpg,A close view of a shovel in the scene .
+4.jpg,An image featuring a shovel .
+4.jpg,A shovel appears in this photo .
+5.jpg,A photo of a garbage truck .
+5.jpg,A picture showing a garbage truck .
+5.jpg,A close view of a garbage truck in the scene .
+5.jpg,An image featuring a garbage truck .
+5.jpg,A garbage truck appears in this photo .
+6.jpg,A photo of a alp .
+6.jpg,A picture showing a alp .
+6.jpg,A close view of a alp in the scene .
+6.jpg,An image featuring a alp .
+6.jpg,A alp appears in this photo .
+7.jpg,A photo of a crutch .
+7.jpg,A picture showing a crutch .
+7.jpg,A close view of a crutch in the scene .
+7.jpg,An image featuring a crutch .
+7.jpg,A crutch appears in this photo .
+8.jpg,A photo of a guacamole .
+8.jpg,A picture showing a guacamole .
+8.jpg,A close view of a guacamole in the scene .
+8.jpg,An image featuring a guacamole .
+8.jpg,A guacamole appears in this photo .
+9.jpg,A photo of a menu .
+9.jpg,A picture showing a menu .
+9.jpg,A close view of a menu in the scene .
+9.jpg,An image featuring a menu .
+9.jpg,A menu appears in this photo .
+10.jpg,A photo of a bakery .
+10.jpg,A picture showing a bakery .
+10.jpg,A close view of a bakery in the scene .
+10.jpg,An image featuring a bakery .
+10.jpg,A bakery appears in this photo .
+11.jpg,A photo of a dome .
+11.jpg,A picture showing a dome .
+11.jpg,A close view of a dome in the scene .
+11.jpg,An image featuring a dome .
+11.jpg,A dome appears in this photo .
+12.jpg,A photo of a puck .
+12.jpg,A picture showing a puck .
+12.jpg,A close view of a puck in the scene .
+12.jpg,An image featuring a puck .
+12.jpg,A puck appears in this photo .
+13.jpg,A photo of a forklift .
+13.jpg,A picture showing a forklift .
+13.jpg,A close view of a forklift in the scene .
+13.jpg,An image featuring a forklift .
+13.jpg,A forklift appears in this photo .
+14.jpg,A photo of a traffic light .
+14.jpg,A picture showing a traffic light .
+14.jpg,A close view of a traffic light in the scene .
+14.jpg,An image featuring a traffic light .
+14.jpg,A traffic light appears in this photo .
+15.jpg,A photo of a racer .
+15.jpg,A picture showing a racer .
+15.jpg,A close view of a racer in the scene .
+15.jpg,An image featuring a racer .
+15.jpg,A racer appears in this photo .
+16.jpg,A photo of a totem pole .
+16.jpg,A picture showing a totem pole .
+16.jpg,A close view of a totem pole in the scene .
+16.jpg,An image featuring a totem pole .
+16.jpg,A totem pole appears in this photo .
+17.jpg,A photo of a trimaran .
+17.jpg,A picture showing a trimaran .
+17.jpg,A close view of a trimaran in the scene .
+17.jpg,An image featuring a trimaran .
+17.jpg,A trimaran appears in this photo .
+18.jpg,A photo of a reel .
+18.jpg,A picture showing a reel .
+18.jpg,A close view of a reel in the scene .
+18.jpg,An image featuring a reel .
+18.jpg,A reel appears in this photo .
+19.jpg,A photo of a go-kart .
+19.jpg,A picture showing a go-kart .
+19.jpg,A close view of a go-kart in the scene .
+19.jpg,An image featuring a go-kart .
+19.jpg,A go-kart appears in this photo .
+20.jpg,A photo of a window screen .
+20.jpg,A picture showing a window screen .
+20.jpg,A close view of a window screen in the scene .
+20.jpg,An image featuring a window screen .
+20.jpg,A window screen appears in this photo .
