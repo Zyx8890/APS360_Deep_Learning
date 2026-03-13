@@ -1,101 +1,101 @@
 image,caption
-1.jpg,A photo of a eskimo dog .
-1.jpg,A picture showing a eskimo dog .
-1.jpg,A close view of a eskimo dog in the scene .
-1.jpg,An image featuring a eskimo dog .
-1.jpg,A eskimo dog appears in this photo .
-2.jpg,A photo of a menu .
-2.jpg,A picture showing a menu .
-2.jpg,A close view of a menu in the scene .
-2.jpg,An image featuring a menu .
-2.jpg,A menu appears in this photo .
-3.jpg,A photo of a modem .
-3.jpg,A picture showing a modem .
-3.jpg,A close view of a modem in the scene .
-3.jpg,An image featuring a modem .
-3.jpg,A modem appears in this photo .
-4.jpg,A photo of a shovel .
-4.jpg,A picture showing a shovel .
-4.jpg,A close view of a shovel in the scene .
-4.jpg,An image featuring a shovel .
-4.jpg,A shovel appears in this photo .
-5.jpg,A photo of a garbage truck .
-5.jpg,A picture showing a garbage truck .
-5.jpg,A close view of a garbage truck in the scene .
-5.jpg,An image featuring a garbage truck .
-5.jpg,A garbage truck appears in this photo .
-6.jpg,A photo of a alp .
-6.jpg,A picture showing a alp .
-6.jpg,A close view of a alp in the scene .
-6.jpg,An image featuring a alp .
-6.jpg,A alp appears in this photo .
-7.jpg,A photo of a crutch .
-7.jpg,A picture showing a crutch .
-7.jpg,A close view of a crutch in the scene .
-7.jpg,An image featuring a crutch .
-7.jpg,A crutch appears in this photo .
-8.jpg,A photo of a guacamole .
-8.jpg,A picture showing a guacamole .
-8.jpg,A close view of a guacamole in the scene .
-8.jpg,An image featuring a guacamole .
-8.jpg,A guacamole appears in this photo .
-9.jpg,A photo of a menu .
-9.jpg,A picture showing a menu .
-9.jpg,A close view of a menu in the scene .
-9.jpg,An image featuring a menu .
-9.jpg,A menu appears in this photo .
-10.jpg,A photo of a bakery .
-10.jpg,A picture showing a bakery .
-10.jpg,A close view of a bakery in the scene .
-10.jpg,An image featuring a bakery .
-10.jpg,A bakery appears in this photo .
-11.jpg,A photo of a dome .
-11.jpg,A picture showing a dome .
-11.jpg,A close view of a dome in the scene .
-11.jpg,An image featuring a dome .
-11.jpg,A dome appears in this photo .
-12.jpg,A photo of a puck .
-12.jpg,A picture showing a puck .
-12.jpg,A close view of a puck in the scene .
-12.jpg,An image featuring a puck .
-12.jpg,A puck appears in this photo .
-13.jpg,A photo of a forklift .
-13.jpg,A picture showing a forklift .
-13.jpg,A close view of a forklift in the scene .
-13.jpg,An image featuring a forklift .
-13.jpg,A forklift appears in this photo .
-14.jpg,A photo of a traffic light .
-14.jpg,A picture showing a traffic light .
-14.jpg,A close view of a traffic light in the scene .
-14.jpg,An image featuring a traffic light .
-14.jpg,A traffic light appears in this photo .
-15.jpg,A photo of a racer .
-15.jpg,A picture showing a racer .
-15.jpg,A close view of a racer in the scene .
-15.jpg,An image featuring a racer .
-15.jpg,A racer appears in this photo .
-16.jpg,A photo of a totem pole .
-16.jpg,A picture showing a totem pole .
-16.jpg,A close view of a totem pole in the scene .
-16.jpg,An image featuring a totem pole .
-16.jpg,A totem pole appears in this photo .
-17.jpg,A photo of a trimaran .
-17.jpg,A picture showing a trimaran .
-17.jpg,A close view of a trimaran in the scene .
-17.jpg,An image featuring a trimaran .
-17.jpg,A trimaran appears in this photo .
-18.jpg,A photo of a reel .
-18.jpg,A picture showing a reel .
-18.jpg,A close view of a reel in the scene .
-18.jpg,An image featuring a reel .
-18.jpg,A reel appears in this photo .
-19.jpg,A photo of a go-kart .
-19.jpg,A picture showing a go-kart .
-19.jpg,A close view of a go-kart in the scene .
-19.jpg,An image featuring a go-kart .
-19.jpg,A go-kart appears in this photo .
-20.jpg,A photo of a window screen .
-20.jpg,A picture showing a window screen .
-20.jpg,A close view of a window screen in the scene .
-20.jpg,An image featuring a window screen .
-20.jpg,A window screen appears in this photo .
+1.jpg,Three black squirrels gather around a tree trunk in a snow-covered park .
+1.jpg,A black squirrel climbs a tree while two others sit in the snow .
+1.jpg,Several dark squirrels playing around a tree in a snowy landscape .
+1.jpg,Black squirrels are out foraging in a park covered in fresh white snow .
+1.jpg,A group of black squirrels near a tree trunk during the winter .
+2.jpg,A woman works inside a food truck selling burgers and poutine .
+2.jpg,A food truck window showing a menu for Toronto Fries and a worker inside .
+2.jpg,A person taking orders from the window of a brown food truck .
+2.jpg,Condiment bottles sit on the counter of a food truck with a large menu .
+2.jpg,A worker prepares food inside a brightly lit food truck on a sunny day .
+3.jpg,A person holds a black printed circuit board with various electronic components .
+3.jpg,A close up view of a custom circuit board held in someone's hand .
+3.jpg,A black electronic circuit board with chips and connectors on a desk .
+3.jpg,Someone holding a small electronic board with a logo on it .
+3.jpg,A hand holding up a black circuit board filled with microchips and pins .
+4.jpg,A snowman wearing a colorful birthday hat sits by the edge of the water .
+4.jpg,A person walks on a snowy path past a snowman with red earmuffs and a party hat .
+4.jpg,A snowman decorated with a birthday hat and red mittens next to a frozen lake .
+4.jpg,A winter scene featuring a snowman wearing a festive hat near a body of water .
+4.jpg,Someone walking behind a snowman that has a party hat and stick arms .
+5.jpg,People walk down a snowy city sidewalk with a tall tower in the distance .
+5.jpg,Pedestrians bundled in winter clothes walk along a snowy street at sunset .
+5.jpg,A view of a city street covered in snow with the CN Tower in the background .
+5.jpg,People walking on a cold winter day in the city during a colorful sunset .
+5.jpg,A snowy urban sidewalk filled with pedestrians and construction in the background .
+6.jpg,People are skiing down a snow-covered slope with a city skyline in the distance .
+6.jpg,A view from the top of a ski hill looking down towards a city .
+6.jpg,Skiers and a chairlift on a snowy hill with tall buildings in the background .
+6.jpg,A sunny winter day on a ski slope overlooking a modern city skyline .
+6.jpg,People enjoying winter sports on a ski hill with a view of the city .
+7.jpg,A line of passengers with backpacks boarding a small white airplane .
+7.jpg,People climbing the stairs to board a commercial aircraft from the tarmac .
+7.jpg,Travelers waiting in line on the stairs leading into an airplane cabin .
+7.jpg,A group of people with luggage boarding a plane through the open door .
+7.jpg,Passengers walking up the steps to get onto a waiting airplane .
+8.jpg,A person holding a paper plate with two tacos topped with green salsa .
+8.jpg,Two street tacos with meat onions and guacamole being held in a busy restaurant .
+8.jpg,A close up of two delicious looking tacos held in front of a food stand .
+8.jpg,Someone holding a plate of fresh tacos with a busy taco shop in the background .
+8.jpg,Two tacos filled with meat and green sauce ready to be eaten .
+9.jpg,A young man wearing glasses and a black turtleneck sits at a restaurant table .
+9.jpg,A man looking at the camera while sitting at a table with empty plates .
+9.jpg,A person with glasses sitting in a busy restaurant after finishing their meal .
+9.jpg,A young man in a black sweater sitting at a wooden dining table .
+9.jpg,A man sitting at a restaurant table with other diners in the background .
+10.jpg,A glass display case filled with a variety of colorful tarts and desserts .
+10.jpg,Rows of beautiful small cakes and pastries inside a bakery display case .
+10.jpg,A well-lit bakery counter showcasing fresh fruit tarts and meringue desserts .
+10.jpg,Many different types of sweet treats arranged neatly in a glass pastry case .
+10.jpg,A display of gourmet desserts including berry cups and lemon tarts in a shop .
+11.jpg,A young man wearing a dark winter coat standing in front of the MIT building in the snow .
+11.jpg,A student posing for a picture on a snowy campus in front of a large domed building .
+11.jpg,A man in a blue jacket stands in a snow-covered courtyard facing the Massachusetts Institute of Technology .
+11.jpg,Someone standing outside the MIT Great Dome on a sunny winter day with snow on the ground .
+11.jpg,A portrait of a young man standing in front of a grand university building during winter .
+12.jpg,Several people are ice skating on an indoor rink under a large metal roof structure .
+12.jpg,A group of people enjoying a day of ice skating at an indoor recreation center .
+12.jpg,Skaters moving across the ice in an indoor arena with American and state flags hanging on the wall .
+12.jpg,People of different ages practicing ice skating at a public indoor rink with large windows .
+12.jpg,A view of an indoor ice skating facility where several people are gliding across the ice .
+13.jpg,A busy indoor gym filled with various exercise machines and people working out on a wooden floor .
+13.jpg,People exercising using weight machines and cardio equipment in a large fitness center with high ceilings .
+13.jpg,A wide view of a spacious gym where several people are using different types of workout equipment .
+13.jpg,Individuals lifting weights and using fitness machines in a large room with a high wooden ceiling .
+13.jpg,A well-lit gymnasium equipped with numerous exercise machines and patrons engaged in their workouts .
+14.jpg,Cars driving down a city street at dusk with a bright orange sunset in the background .
+14.jpg,A view down a city avenue during sunset with traffic and tall buildings on either side .
+14.jpg,Vehicles with headlights on traveling along a dark street against a glowing evening sky .
+14.jpg,A beautiful sunset illuminates the sky above a busy street lined with tall buildings and bare trees .
+14.jpg,Traffic moving through a city intersection as the sun sets casting an orange glow on the horizon .
+15.jpg,A silver and black Mercedes Formula One race car on display inside a building with onlookers .
+15.jpg,People gather around to take pictures of a modern F1 racing car showcased at an indoor event .
+15.jpg,A close up view of a parked Mercedes AMG Petronas Formula 1 car surrounded by spectators .
+15.jpg,Fans looking at an impressive Formula One car on exhibition inside a bright shopping mall area .
+15.jpg,A sleek racing car with sponsor logos parked indoors while people walk by and admire it .
+16.jpg,A tall Christmas tree uniquely decorated with oversized candy canes and pastel ornaments in a public square .
+16.jpg,A large outdoor holiday tree adorned with giant fake candies and gingerbread men at night .
+16.jpg,A festive Christmas tree covered in candy-themed decorations stands illuminated in an outdoor plaza .
+16.jpg,An evening view of a giant holiday tree decorated with large pastel colored sweets and ornaments .
+16.jpg,A beautifully lit Christmas tree featuring candy decorations enclosed by a small white fence .
+17.jpg,A young man wearing sunglasses smiles while holding a fishing rod on the deck of a boat .
+17.jpg,A person sitting on a white boat out on the water getting ready to go fishing .
+17.jpg,A man in a black t-shirt relaxes on a boat holding a fishing pole on a sunny day .
+17.jpg,Someone enjoying a sunny day of fishing from a small boat on the ocean .
+17.jpg,A cheerful man with dark sunglasses holding a red fishing rod while out on the water .
+18.jpg,A young man wearing dark sunglasses sits at the helm steering a boat across the water .
+18.jpg,A person navigating a boat with their hands on the steering wheel on a sunny day .
+18.jpg,A man in a black shirt driving a boat with green trees visible along the shoreline .
+18.jpg,Someone sitting behind the console of a boat steering it through the water .
+18.jpg,A man piloting a small motorboat near a forested coastline under a bright blue sky .
+19.jpg,Two heavily mud-covered dune buggies are parked next to each other on an asphalt surface .
+19.jpg,A pair of off-road buggies with dirty frames and pink seats sitting in a parking area .
+19.jpg,Muddy recreational off-road vehicles parked outside after being driven through the dirt .
+19.jpg,A four-seater dune buggy completely splattered with mud parked near other off-road vehicles .
+19.jpg,Two dirty off-road karts parked on the pavement after a messy ride outdoors .
+20.jpg,A person in a black sweater stands in an art gallery looking at a large painting of water lilies .
+20.jpg,A visitor admiring a famous impressionist painting of a lily pond in a museum setting .
+20.jpg,A man observing a framed piece of artwork depicting a nature scene hanging on a gallery wall .
+20.jpg,Someone standing in front of a wide classical painting of water lilies inside an art museum .
+20.jpg,A museum patron examining a large framed landscape painting displayed on a light colored wall .

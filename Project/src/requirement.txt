@@ -13,3 +13,4 @@ torchaudio==2.5.1+cu124
 
 jupyter>=1.0
 ipykernel>=6.29
+transformers==4.57.1
